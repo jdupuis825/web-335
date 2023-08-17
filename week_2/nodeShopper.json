@@ -1,0 +1,23 @@
+
+{
+"customer": {
+    "_id":1,
+    "firstName":"Keyser",
+    "lastName":"Trowbridge",
+    "dateOfBirth":"2013-02-17",
+    "username":"KeyserTheDog"
+
+},
+"invoice": {
+    "_id":1,
+    "createDate":"2023-08-17",
+    "shipDate":"2023-08-18",
+    "subtotal":"$1333.66"
+},
+"lineitem": {
+    "_id":1,
+    "productName":"laptop",
+    "price":"$1200.00",
+    "qty":"1"
+}
+}

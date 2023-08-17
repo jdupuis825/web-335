@@ -1,0 +1,21 @@
+
+{
+"student": {
+    "studentId":1,
+    "firstName":"Keyser",
+    "lastName":"Trowbridge"
+},
+"enrollment": {
+    "term":2,
+    "gpa":"4.0",
+    "startDate":"2023-08-18",
+    "endDate":"2023-10-16"
+},
+"course": {
+    "coursed":"WEB 335",
+    "description":"Introduction to NoSQL",
+    "instructor":"Krasso",
+    "score":"97.6",
+    "letterGrade":"A"
+}
+}
