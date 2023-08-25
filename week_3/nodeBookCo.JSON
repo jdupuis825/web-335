@@ -1,0 +1,46 @@
+[
+    {
+        "publisher_name": "Down & Out Books",
+        "publisher_code": "01",
+        "publisher_address": "3959 Van Dyke Road, Suite 265, Lutz, FL. 33558",
+        "authors": [
+            {
+                "author_first_name": "Joe",
+                "author_last_name": "Ricker",
+                "author_phone": "1234567890",
+                "author_email": "joericker@gmail.com",
+                "books": [
+                    {
+                        "book_isbn": "1-64396-133-0",
+                        "book_name": "Porcelain Moths",
+                        "book_price": "15.95"
+                    },
+                    {
+                        "book_isbn": "1-64396-232-9",
+                        "book_name": "All the Good in Evil",
+                        "book_price": "17.95"
+                    }
+                ]
+            },
+            {
+                "author_first_name": "Patricia",
+                "author_last_name": "Abbott",
+                "author_phone": "0987654321",
+                "author_email": "patriciaabbott@gmail.com",
+                "books": [
+                    {
+                        "book_isbn": "1-948235-65-5",
+                        "book_name": "Monkey Justice and Other Stories",
+                        "book_price": "16.95"
+                    },
+                    {
+                        "book_isbn": "1-64396-036-4",
+                        "book_name": "Home Invasion",
+                        "book_price": "13.95"
+                    }
+                ]
+            }
+        ]
+    }    
+]
+

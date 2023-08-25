@@ -1,0 +1,70 @@
+[
+    {
+        "_id": "001",
+        "first_name": "Jocelyn",
+        "last_name": "Dupuis",
+        "roles": [
+            {
+                "_id": "100",
+                "title": "user",
+                "start_date": "08/24/2023",
+                "permissions": [
+                    {
+                        "_id": "p101",
+                        "task": "search"
+                    },
+                    {
+                        "_id": "p102",
+                        "task": "read"
+                    },
+                    {
+                        "_id": "p102",
+                        "task": "write"
+                    }
+                ]
+            },
+            {
+                "_id": "100",
+                "title": "guest",
+                "start_date": "08/24/2023",
+                "permissions": [
+                    {
+                        "_id": "p101",
+                        "task": "search"
+                    },
+                    {
+                        "_id": "p103",
+                        "task": "write"
+                    },
+                    {
+                        "_id": "p104",
+                        "task": "read"
+                    }
+                ]
+            },
+            {
+                "_id": "101",
+                "title": "admin",
+                "start_date": "08/24/2023",
+                "permissions": [
+                    {
+                        "_id": "p101",
+                        "task": "search"
+                    },
+                    {
+                        "_id": "p105",
+                        "task": "write"
+                    },
+                    {
+                        "_id": "p106",
+                        "task": "read"
+                    },
+                    {
+                        "_id": "p107",
+                        "task": "delete"
+                    }
+                ]
+            }
+        ]
+    }
+]
