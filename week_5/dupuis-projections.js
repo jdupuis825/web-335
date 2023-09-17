@@ -3,7 +3,7 @@
 ; Title: dupuis-projections.js
 ; Author: Jocelyn Dupuis
 ; Date: 09/07/2023
-; Description: MRouting for composers API assignment
+; Description: Routing for composers API assignment
 ============================================
 */
 
